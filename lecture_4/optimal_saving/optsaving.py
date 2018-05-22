@@ -59,10 +59,10 @@ class SavingsProblem:
         return self.β, self.γ, self.R, self.w, self.Q, self.x_grid, self.z_grid
 
     def value_function_iteration(self, 
-                                tol=1e-4, 
-                                max_iter=1000, 
-                                verbose=True,
-                                print_skip=25): 
+                                 tol=1e-4, 
+                                 max_iter=1000, 
+                                 verbose=True,
+                                 print_skip=25): 
 
         # Set initial condition, set up storage
         v_in = np.ones((self.x_grid_size, self.z_grid_size))
