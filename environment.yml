@@ -4,3 +4,4 @@ dependencies:
   - anaconda
   - numba=0.38
   - quantecon
+  - sklearn
