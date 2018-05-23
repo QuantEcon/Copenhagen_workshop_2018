@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+dependencies:
+  - anaconda
+  - numba=0.38
+  - quantecon
