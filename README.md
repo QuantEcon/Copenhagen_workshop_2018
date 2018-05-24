@@ -6,6 +6,8 @@ Instructors: John Stachurski and Natasha Watkins
 
 Homepage: https://quantecon.org/copenhagen-summer-school-2018
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/QuantEcon/Copenhagen_workshop_2018/master)
+
 
 **Schedule**
 
