@@ -5,3 +5,5 @@ dependencies:
   - numba=0.38
   - quantecon
   - scikit-learn
+  - seaborn
+  - bokeh
